@@ -4,6 +4,10 @@ forked from https://github.com/mickeykubo/analytics_book
 
 Binder実行用に一部修正
 
+以下から開ける
+
+https://hub.gke.mybinder.org/user/usersan-analytics_book-mdlv5dfx/tree
+
 ## Pythonによるビジネスアナリティクス
 ## 練習問題集
 
