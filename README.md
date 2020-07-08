@@ -1,4 +1,9 @@
 # analytics_book
+
+forked from https://github.com/mickeykubo/analytics_book
+
+Binder実行用に一部修正
+
 ## Pythonによるビジネスアナリティクス
 ## 練習問題集
 
